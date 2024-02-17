@@ -1,0 +1,7 @@
+C:\Users\radhi\source\repos\For_LoopCsharp\bin\Debug\For_LoopCsharp.exe.config
+C:\Users\radhi\source\repos\For_LoopCsharp\bin\Debug\For_LoopCsharp.exe
+C:\Users\radhi\source\repos\For_LoopCsharp\bin\Debug\For_LoopCsharp.pdb
+C:\Users\radhi\source\repos\For_LoopCsharp\obj\Debug\For_LoopCsharp.csproj.CoreCompileInputs.cache
+C:\Users\radhi\source\repos\For_LoopCsharp\obj\Debug\For_LoopCsharp.exe
+C:\Users\radhi\source\repos\For_LoopCsharp\obj\Debug\For_LoopCsharp.pdb
+C:\Users\radhi\source\repos\For_LoopCsharp\obj\Debug\For_LoopCsharp.csprojAssemblyReference.cache

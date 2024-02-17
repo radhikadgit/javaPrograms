@@ -1,0 +1,7 @@
+C:\Users\radhi\source\repos\SchoolTracker\bin\Debug\SchoolTracker.exe.config
+C:\Users\radhi\source\repos\SchoolTracker\bin\Debug\SchoolTracker.exe
+C:\Users\radhi\source\repos\SchoolTracker\bin\Debug\SchoolTracker.pdb
+C:\Users\radhi\source\repos\SchoolTracker\obj\Debug\SchoolTracker.csprojAssemblyReference.cache
+C:\Users\radhi\source\repos\SchoolTracker\obj\Debug\SchoolTracker.csproj.CoreCompileInputs.cache
+C:\Users\radhi\source\repos\SchoolTracker\obj\Debug\SchoolTracker.exe
+C:\Users\radhi\source\repos\SchoolTracker\obj\Debug\SchoolTracker.pdb

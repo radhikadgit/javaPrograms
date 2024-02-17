@@ -1,0 +1,7 @@
+C:\Users\radhi\source\repos\Create_ThreeQsurvay_lynda\bin\Debug\Create_ThreeQsurvay_lynda.exe.config
+C:\Users\radhi\source\repos\Create_ThreeQsurvay_lynda\bin\Debug\Create_ThreeQsurvay_lynda.exe
+C:\Users\radhi\source\repos\Create_ThreeQsurvay_lynda\bin\Debug\Create_ThreeQsurvay_lynda.pdb
+C:\Users\radhi\source\repos\Create_ThreeQsurvay_lynda\obj\Debug\Create_ThreeQsurvay_lynda.csprojAssemblyReference.cache
+C:\Users\radhi\source\repos\Create_ThreeQsurvay_lynda\obj\Debug\Create_ThreeQsurvay_lynda.csproj.CoreCompileInputs.cache
+C:\Users\radhi\source\repos\Create_ThreeQsurvay_lynda\obj\Debug\Create_ThreeQsurvay_lynda.exe
+C:\Users\radhi\source\repos\Create_ThreeQsurvay_lynda\obj\Debug\Create_ThreeQsurvay_lynda.pdb

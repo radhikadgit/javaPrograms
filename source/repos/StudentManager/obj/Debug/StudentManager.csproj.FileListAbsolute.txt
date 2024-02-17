@@ -1,0 +1,7 @@
+C:\Users\radhi\source\repos\StudentManager\bin\Debug\StudentManager.exe.config
+C:\Users\radhi\source\repos\StudentManager\bin\Debug\StudentManager.exe
+C:\Users\radhi\source\repos\StudentManager\bin\Debug\StudentManager.pdb
+C:\Users\radhi\source\repos\StudentManager\obj\Debug\StudentManager.csprojAssemblyReference.cache
+C:\Users\radhi\source\repos\StudentManager\obj\Debug\StudentManager.csproj.CoreCompileInputs.cache
+C:\Users\radhi\source\repos\StudentManager\obj\Debug\StudentManager.exe
+C:\Users\radhi\source\repos\StudentManager\obj\Debug\StudentManager.pdb

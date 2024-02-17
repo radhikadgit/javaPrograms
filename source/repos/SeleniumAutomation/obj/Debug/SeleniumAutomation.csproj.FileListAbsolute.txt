@@ -1,0 +1,10 @@
+C:\Users\radhi\source\repos\SeleniumAutomation\bin\Debug\SeleniumAutomation.exe.config
+C:\Users\radhi\source\repos\SeleniumAutomation\bin\Debug\SeleniumAutomation.exe
+C:\Users\radhi\source\repos\SeleniumAutomation\bin\Debug\SeleniumAutomation.pdb
+C:\Users\radhi\source\repos\SeleniumAutomation\bin\Debug\WebDriver.dll
+C:\Users\radhi\source\repos\SeleniumAutomation\bin\Debug\WebDriver.xml
+C:\Users\radhi\source\repos\SeleniumAutomation\obj\Debug\SeleniumAutomation.csprojAssemblyReference.cache
+C:\Users\radhi\source\repos\SeleniumAutomation\obj\Debug\SeleniumAutomation.csproj.CoreCompileInputs.cache
+C:\Users\radhi\source\repos\SeleniumAutomation\obj\Debug\SeleniumAutomation.csproj.CopyComplete
+C:\Users\radhi\source\repos\SeleniumAutomation\obj\Debug\SeleniumAutomation.exe
+C:\Users\radhi\source\repos\SeleniumAutomation\obj\Debug\SeleniumAutomation.pdb

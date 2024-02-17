@@ -1,0 +1,7 @@
+C:\Users\radhi\source\repos\Posscode\bin\Debug\Posscode.exe.config
+C:\Users\radhi\source\repos\Posscode\bin\Debug\Posscode.exe
+C:\Users\radhi\source\repos\Posscode\bin\Debug\Posscode.pdb
+C:\Users\radhi\source\repos\Posscode\obj\Debug\Posscode.csprojAssemblyReference.cache
+C:\Users\radhi\source\repos\Posscode\obj\Debug\Posscode.csproj.CoreCompileInputs.cache
+C:\Users\radhi\source\repos\Posscode\obj\Debug\Posscode.exe
+C:\Users\radhi\source\repos\Posscode\obj\Debug\Posscode.pdb
